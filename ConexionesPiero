@@ -1,0 +1,16 @@
+                            CONEXIONES PIERO
+
+RUEDAS
+Rueda IZQ: ENA -> 8
+           IN1 -> 9
+           IN2 -> 10
+           Encoders: VERDE -> 14
+                     AMARILLO -> 15
+
+Rueda DER: ENB -> 8
+           IN3 -> 9
+           IN4 -> 10
+           Encoders: VERDE -> 16
+                     AMARILLO -> 17
+
+SENSORES
